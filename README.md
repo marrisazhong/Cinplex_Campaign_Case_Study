@@ -19,3 +19,8 @@ Define Success
 1. Significant improvement of the measurable metrics for targeted segment 
 2. Plan for future waves of the campaign 
 3. Fit the campaign in CRM Campaign Family 
+
+Python in Jupyter Notebook
+- Data Cleaning
+- Data Exploration
+- Logistic Regression Model to validate randomization assumption in control group and targeted segment
