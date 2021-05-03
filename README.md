@@ -13,7 +13,8 @@ Measurable Metrics
 5. Avg Miles Post 1M
 
 Analysis Framework 
-- Benchmark Comparing: compare the measurable metrics in targeted segment and control group
+1. Benchmark Comparing: compare the measurable metrics in targeted segment and control group
+2. A/B Testing: take control group as group A and targeted segment as group B and test whether the campaign makes a significant difference 
 
 Define Success 
 1. Significant improvement of the measurable metrics for targeted segment 
@@ -21,6 +22,6 @@ Define Success
 3. Fit the campaign in CRM Campaign Family 
 
 Python in Jupyter Notebook
-- Data Cleaning
-- Data Exploration
-- Logistic Regression Model to validate randomization assumption in control group and targeted segment
+1. Data Cleaning
+2. Data Exploration
+3. Logistic Regression Model to validate randomization assumption in control group and targeted segment
